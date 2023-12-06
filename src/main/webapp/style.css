@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+header{
+   height: 15%;
+   line-height: 2.4;
+   padding: 10px; 
+   background-color: rgb(0, 128, 192);
+   text-align: center;
+   font-size: 3rem;
+   font-weight: bold;
+   color: white;
+   
+}
+nav{
+   height: 5%;
+   background-color: purple;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: white;
+   
+}
+
+nav li{
+   display: inline;
+   line-height: 2.8;
+   padding: 0 2%;
+}
+
+nav ul{
+   text-align: left;
+   text-align: center;
+}
+
+footer{
+    height: 5%;
+    background-color: grey;
+    line-height: 2.5;
+    text-align: center;
+    color: white;
+}
+
+section{
+    height: 80%;
+}
+*{
+   margin: 0;
+   padding: 0;
+}
+html, body{
+   height: 100%;
+   width: 100%;
+}
+#tab1{
+     margin: 0 auto;
+     width: 80%;
+     text-align: center;
+}
+#tab2{
+     margin: 0 auto;
+     width: 70%;
+     text-align: center, left;
+ 
+}
+#tab3{
+     margin: 0 auto;
+     width: 50%;
+ 
+}
+section h1{
+     text-align: center;
+}
+
+#in1{
+     height: 30px;
+     width: 100%;
+}
+#in2{
+     height: 30px;
+     width: 55%;
+}
+
+#in3{
+	
+	
+}
+
+#bt1{
+     height: 30px;
+     width: 20%;
+  
+}
+#bt2{
+     height: 30px;
+     width: 20%;
+
+}
